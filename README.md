@@ -7,7 +7,7 @@
   <br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faprikaa&theme=radical&mode=weekly" alt="Faprikaa" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username= &theme=tokyonight" alt="Rikunz" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faprikaa&theme=tokyonight" alt="Rikunz" />
 <br>
  <img align="center" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api/top-langs?langs_count=6&username=faprikaa&theme=radical&layout=compact&hide=css,html,javascript,ShaderLab,HLSL,Python&count_private=true" alt="Rikunz" />
 </p>
