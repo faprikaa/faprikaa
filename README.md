@@ -8,21 +8,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faprikaa&theme=radical&mode=weekly" alt="Faprikaa" />
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=faprikaa&theme=tokyonight" alt="Rikunz" />
+<img align="center" src="https://github-readme-stats-mv26.vercel.app/api?username=faprikaa&theme=tokyonight" alt="Rikunz" />
 <br>
- <img align="center" src="https://github-readme-stats-git-master-revenger-a.vercel.app/api/top-langs?langs_count=6&username=faprikaa&theme=radical&layout=compact&count_private=true" />
-</p>
-
-<p align="center">
-- I like running <br>
-- I like Workout <br>
-- I like Technology <br>
-- I like a challenge <br>
-- Never Surrender Though That was imposible to reach <br>
-- Now Being Shadow <br>
-- Teenager
-</p>
-
-<p align="center" style="color:red, size:9">
- https://mautau.ga
+ <img align="center" src="https://github-readme-stats-mv26.vercel.app/api/top-langs?langs_count=6&username=faprikaa&theme=radical&layout=compact&count_private=true" />
 </p>
