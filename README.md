@@ -7,7 +7,7 @@
   <br>
 <p align="center">
 <p align="center">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21gnpi6cbvmfyflyj3qyqveiq&redirect=true" href="https://discord.com/users/555238901527085056](https://spotify-github-profile.vercel.app/api/view.svg?uid=21gnpi6cbvmfyflyj3qyqveiq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="faprikaa" />
+  <img align="center" href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21gnpi6cbvmfyflyj3qyqveiq&redirect=true" src="https://discord.com/users/555238901527085056](https://spotify-github-profile.vercel.app/api/view.svg?uid=21gnpi6cbvmfyflyj3qyqveiq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="faprikaa" />
   </p>
   <br>
 <p align="center">
