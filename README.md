@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm faprikaa👋</h1>
+<h1 align="center">Hi there, I'm Muamamr Mufid👋</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Fsprikaa&label=Profile%20views&color=1ea97f&style=flat" alt="Rikunz" /></p>
 <br>
 <p align="center">
