@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muammar Mufid👋</h1>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Fsprikaa&label=Profile%20views&color=1ea97f&style=flat" alt="Rikunz" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Faprikaa&label=Profile%20views&color=1ea97f&style=flat" alt="Rikunz" /></p>
 <br>
-![](https://count.getloli.com/get/@:faprikaa?theme=gelbooru)
+[](https://count.getloli.com/get/@:faprikaa?theme=gelbooru)
 
 <p align="center">
   <img align="center" src="https://lanyard.cnrad.dev/api/555238901527085056" href="https://discord.com/users/555238901527085056" alt="faprikaa" />
