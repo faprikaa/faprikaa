@@ -16,7 +16,7 @@
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faprikaa&theme=radical&mode=weekly" alt="Faprikaa" />
   <br>
-<img align="center" src="https://github-readme-stats-mv26.vercel.app/api?username=faprikaa&theme=tokyonight" alt="Rikunz" />
+<img align="center" src="https://github-readme-stats-mv26.vercel.app/api?username=faprikaa&theme=tokyonight" />
 <br>
  <img align="center" src="https://github-readme-stats-mv26.vercel.app/api/top-langs?langs_count=6&username=faprikaa&theme=radical&layout=compact&count_private=true" />
 </p>
